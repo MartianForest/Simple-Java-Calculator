@@ -34,6 +34,7 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 ## 💡 Authors
 
 ### Base Application
+Credit goes to the following guys:
 
 - **[Pierre-Henry Soria](https://ph7.me)**
 
